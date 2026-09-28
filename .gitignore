@@ -1,0 +1,10 @@
+node_modules/
+dist/
+output/
+qa/
+test-results/
+playwright-report/
+references/
+*.log
+.env*
+.runtime/
